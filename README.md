@@ -13,8 +13,8 @@ int main() {
 
     int lcm = (a * b) / gcd;
 
-    cout << "GCD = " << gcd << endl;
-    cout << "LCM = " << lcm << endl;
+        cout << "GCD = " << gcd << endl;
+        cout << "LCM = " << lcm << endl;
 
-    return 0;
+        return 0;
 }
