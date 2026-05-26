@@ -15,6 +15,5 @@ int main() {
 
         cout << "GCD = " << gcd << endl;
         cout << "LCM = " << lcm << endl;
-
         return 0;
 }
