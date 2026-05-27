@@ -10,7 +10,6 @@ int main() {
         if (a % i == 0 && b % i == 0)
             gcd = i;
     }
-
     int lcm = (a * b) / gcd;
 
         cout << "GCD = " << gcd << endl;
